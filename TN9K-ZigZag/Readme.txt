@@ -10,6 +10,7 @@ Build:
 * Unzip rom files to the tools folder.
 * Run the make proms script in the tools folder.
 * Place the generated prom files inside the proms folder.
-* Open the TangNano9k-ZigZag project file using GoWin.
+* Open the TN9K-ZigZag project file using GoWin.
 * Compile the project updating filepaths to source files as necessary.
 * Program Tang Nano 9K Board.
+
