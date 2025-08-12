@@ -8,7 +8,6 @@
 ---------------------------------------------------------------------------------
 -- Keyboard inputs :
 --   5 : Add coin
---   2 : Start 2 players
 --   1 : Start 1 player
 --   LCtrl : Fire
 --   RIGHT arrow : Move Right
